@@ -17,7 +17,7 @@ import matplotlib.pyplot as plt
 
 
 # Set after reviewing the elbow
-N_CLUSTERS = 4
+N_CLUSTERS = 5
 
 
 # find optimal k for KMeans
